@@ -1,0 +1,1 @@
+This file contains the four ANSYS files generated for the standard GORG setup, but with the drift gap modified to 0.5mm. 
